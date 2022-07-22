@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Mango-Wei/elisewei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Elise Wei is currently a Computer Science student at Dartmouth College, NH.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
