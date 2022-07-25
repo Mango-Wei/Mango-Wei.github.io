@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 Elise Wei is currently a Computer Science student at Dartmouth College, NH.
+I have done some front-end and back-end small projects by myself. I enjoy working on algorithms.
+My track at Dartmouth College is in digital arts, so I am also studying computer graphics extensively.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -29,12 +31,7 @@ Elise Wei is currently a Computer Science student at Dartmouth College, NH.**
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Adventure Time
 
-Elise Wei is currently a Computer Science student at Dartmouth College, NH.
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mango-Wei/elisewei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Elise Wei is currently a Computer Science student at Dartmouth College, NH.
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I lived in Shanghai for 8 years and also lived in Northern Europe for a while. Now I am settled in New Hampshire, near the White Mountain Forest Park.
+Learning computers is very interesting for me, but also very hard.
