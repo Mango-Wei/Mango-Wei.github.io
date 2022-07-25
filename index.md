@@ -1,7 +1,9 @@
 ## Welcome 
 
 Elise Wei is currently a Computer Science student at Dartmouth College, NH.
+
 I have done some front-end and back-end small projects by myself. I enjoy working on algorithms.
+
 My track at Dartmouth College is in digital arts, so I am also studying computer graphics extensively.
 
 
@@ -9,9 +11,13 @@ My track at Dartmouth College is in digital arts, so I am also studying computer
 
 
 
-### Markdown
+### Heaven or Las Vegas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dartmouth College 2022 - 2024
+Fudan Univerisity 2018 - 2021
+Uni. of Eastern Filand   2019
+
+
 
 ```markdown
 OSCAR WILDE > LE JARDIN
