@@ -6,6 +6,9 @@ My track at Dartmouth College is in digital arts, so I am also studying computer
 
 
 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,6 +31,9 @@ Are blown into a snowy mass:
 The roses lie upon the grass
 Like little shreds of crimson silk.
 ```
+
+
+
 
 
 ### Adventure Time
