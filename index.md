@@ -13,11 +13,13 @@ My track at Dartmouth College is in digital arts, so I am also studying computer
 
 ### Heaven or Las Vegas
 
-Dartmouth College 2022 - 2024
+Dartmouth College     2022 - 2024
 
-Fudan Univerisity 2018 - 2021
+Fudan Univerisity     2018 - 2021
 
-Uni. of Eastern Filand   2019
+Uni. of Eastern Finland       2019
+
+
 
 
 
@@ -50,4 +52,4 @@ I lived in Shanghai for 8 years and also lived in Northern Europe for a while.
 
 Now I am settled in New Hampshire, near the White Mountain Forest Park.
 
-Learning computers is very interesting for me, but also challenging.
+Computer science is very interesting, but also a lure.
