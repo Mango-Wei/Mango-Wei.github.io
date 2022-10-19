@@ -2,16 +2,17 @@
 
 Elise Wei is currently a Computer Science student at Dartmouth College, NH.
 
-I have done some front-end and back-end small projects by myself. I enjoy working on algorithms.
+I have done some front-end and back-end small projects. I enjoy working on algorithms.
 
-My track at Dartmouth College is in digital arts, so I am also studying computer graphics extensively.
-
-
+My track at Dartmouth College is in digital arts, so I am also studying 3d modeling and computer graphics extensively.
 
 
 
 
-### Heaven or Las Vegas
+
+
+### Stories 
+
 
 Dartmouth College     2022 - 2024
 
@@ -48,8 +49,5 @@ Like little shreds of crimson silk.
 
 ### Adventure Time
 
-I lived in Shanghai for 8 years and also lived in Northern Europe for a while. 
+Shanghai / Northern Europe / New Hampshire
 
-Now I am settled in New Hampshire, near the White Mountain Forest Park.
-
-Computer science is very interesting, but also a lure.
