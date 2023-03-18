@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>blingbling</title>
+	<style>
+		/* 设置整个页面的背景色为黑色 */
+		body {
+			background-color: black;
+		}
+		/* 设置闪烁元素的样式 */
+		.blink {
+			animation: blink 1s infinite;
+			color: white;
+		}
+		/* 定义闪烁动画 */
+		@keyframes blink {
+			50% {
+				opacity: 0;
+			}
+		}
+	</style>
+</head>
+<body>
+	<!-- 添加一个闪烁的元素 -->
+	<h1 class="blink">欢迎来到闪烁网页！</h1>
+</body>
+</html>
