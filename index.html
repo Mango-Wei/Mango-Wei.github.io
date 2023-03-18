@@ -74,6 +74,30 @@
 			bottom: 0;
 			width: 100%;
 		}
+		
+		
+		#ball {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        margin-left: -25px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: red;
+        animation: bounce 1s ease-in-out infinite;
+      }
+      
+      @keyframes bounce {
+        0%, 100% {
+          top: 0;
+        }
+	       50% {
+          top: 50%;
+        }
+      }
+		
+		
 	</style>
 </head>
 
@@ -115,8 +139,11 @@
 			</a>
 		</div>
 	</div>
+	
 
 	<div class="footer">
+		<div id="ball"></div>
+
 		<p> 2023</p>
 	</div>
 </body>
