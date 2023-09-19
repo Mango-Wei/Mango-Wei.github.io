@@ -1,28 +1,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<title>blingbling</title>
-	<style>
-		/* 设置整个页面的背景色为黑色 */
-		body {
-			background-color: black;
-		}
-		/* 设置闪烁元素的样式 */
-		.blink {
-			animation: blink 1s infinite;
-			color: white;
-		}
-		/* 定义闪烁动画 */
-		@keyframes blink {
-			50% {
-				opacity: 0;
-			}
-		}
-	</style>
+    <meta charset="UTF-8">
+    <title>blingbling</title>
+    <style>
+        body {
+            background-color: ivory;
+            font-family: Arial, sans-serif;
+        }
+
+        .artwork {
+            text-align: center;
+            margin: 20px;
+        }
+
+        .artwork img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .artwork-description {
+            font-size: 16px;
+            margin-top: 10px;
+        }
+    </style>
 </head>
 <body>
-	<!-- 添加一个闪烁的元素 -->
-	<h1 class="blink">欢迎来到闪烁网页！</h1>
+
+    <div class="artwork">
+        <img src="artwork1.jpg" alt="Artwork 1">
+        <div class="artwork-description">
+            This is my first artwork. It is inspired by nature and features vibrant colors.
+        </div>
+    </div>
+
+    <div class="artwork">
+        <img src="artwork2.jpg" alt="Artwork 2">
+        <div class="artwork-description">
+            Here is my second artwork. It explores the theme of love and relationships.
+        </div>
+    </div>
+
+    <!-- Add more artwork divs as needed -->
+
 </body>
 </html>
